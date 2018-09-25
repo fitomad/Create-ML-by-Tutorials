@@ -1,0 +1,36 @@
+[
+    {
+        "appID" : 284882215,
+        "name" : "Facebook",
+        "desc" : "The Facebook app"
+    },
+    {
+        "appID" : 284882215,
+        "name" : "Facebook",
+        "desc" : "The Facebook app"
+    },
+    {
+        "appID" : 389801252,
+        "name" : "Instagram",
+        "desc" : "The Instagram app"
+    },
+    {
+        "appID" : 288429040,
+        "name" : "LinkedIn",
+        "desc" : "The LinkedIn app"
+    },
+    {
+        "appID" : 333903271,
+        "name" : "twitter"
+    },
+    {
+        "appID" : 0,
+        "name" : ""
+    },
+    {
+        "appID" : 0
+    },
+    {
+        "name" : "Unavailable"
+    }
+]
