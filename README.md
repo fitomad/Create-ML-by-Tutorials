@@ -9,6 +9,7 @@ Este repositorio se divide a su vez en repositorios, uno por cada artículo, y c
 Aquí podreís acceder a los artículos. La lista se irá actualizando a medida que se vayan publicando.
 
 1. [Create ML. Introducción]( http://desappstre.com/create-ml-tutorial/)
+2. [Create ML. MLTextClassifier]( http://desappstre.com/create-ml-tutorial-mltextclassifier/)
 
 ## Contacto
 
