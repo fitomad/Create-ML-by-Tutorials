@@ -24,3 +24,11 @@ La carpeta de datos tiene la siguiente estructura:
 	* Sheldon
 	* Raj
 	* Howard
+
+## El Playground
+
+Debe ejecutarse sobre **Xcode 10** en un Mac con macOS Mojave instalado. Al abrir el playground se verá que está compuesto por 2 *páginas*, una tiene la creación del modelo con el interface gracias a `MLImageClassifierBuilder` y la otra página tiene la creación del modelo mediante código.
+
+## Contacto
+
+Si tienes dudas o preguntas seguro que me encuentras en mi cuenta de twitter [@fitomad](https://twitter.com/fitomad)
