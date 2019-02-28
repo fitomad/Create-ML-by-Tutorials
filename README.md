@@ -10,7 +10,7 @@ Aquí podreís acceder a los artículos. La lista se irá actualizando a medida 
 
 1. [Create ML. Introducción]( http://desappstre.com/create-ml-tutorial/)
 2. [Create ML. MLTextClassifier]( http://desappstre.com/create-ml-tutorial-mltextclassifier/)
-3. [CreateML. MLImageClassifier](http://desappstre.com/create-ml-tutorial-mlimageclassifier/)
+3. [Create ML. MLImageClassifier](http://desappstre.com/create-ml-tutorial-mlimageclassifier/)
 
 ## Contacto
 
